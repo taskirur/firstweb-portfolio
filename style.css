@@ -1,0 +1,113 @@
+body{
+    margin: 0;
+    font-family: 'Varta', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h4{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+}
+.name-hilight{
+    color: lightseagreen;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+a{
+	text-decoration:none;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 800px;
+    padding-bottom: 150px;
+	width:100%;
+	background-position:center;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(45deg, #97368f, #d80a7b);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 700px;
+    padding-bottom: 150px;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80% ;
+    height: 500px;
+    padding-bottom: 80px;
+    margin-top: 100px;
+    
+}
+.quater-width{ 
+    width: 25%;
+   float: left;
+   margin-left: 5%;
+   padding-left: 2%;
+
+}
+#latest-text{
+    text-align: center;
+    padding-bottom: 50px;
+    color: royalblue;
+}
+.client-content{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 90%;
+    height: 500px;
+    padding-bottom: 100px;
+    margin-top: 50px;
+}
+.client-part{
+    text-align: center;
+    padding: 20px;
+  
+}
+.link-masaage{   
+	width: 500px;
+    height: 130px;
+    background-image:linear-gradient(45deg, #ee8e68, #d6381c);
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius:10px;
+	color:white;
+	
+}
+.link-masaage p{
+    padding-top:15px;
+    color: white;
+}
+.link-masaage h4{
+    color: white;
+    padding-bottom: 10px;
+}
+footer p{
+    text-align: center;
+    padding-top: 60px;
+}
